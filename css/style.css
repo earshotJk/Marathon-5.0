@@ -15,7 +15,8 @@
 }
 
 body {
-    background-color: rgb(226, 211, 172);
+    font-family: 'Montserrat', sans-serif;
+    background: #EFE6E4;
 }
 
 .promo {
@@ -38,4 +39,29 @@ body {
     font-size: 50px;
     line-height: 62px;
     color: #533738;
+}
+
+.promo-description {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color: #533738;
+}
+
+.button {
+    color:#533738;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.promo-text .promo-button {
+    background: #CC8B86;
+
+
 }
